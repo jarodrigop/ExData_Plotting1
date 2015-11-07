@@ -1,6 +1,6 @@
 ##
 ## plot2.R
-###
+##
 
 
 # Verify that household_power_consumption.txt exists. If not, download and uncompress.
