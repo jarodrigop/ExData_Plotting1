@@ -80,7 +80,7 @@
          bty = "n"
         )
  
- ## Energy sub metering
+ ## Global_reactive_power
    plot( x    = subdata$dateTime,
         xlab = "datetime",
         y    = subdata$Global_reactive_power,
